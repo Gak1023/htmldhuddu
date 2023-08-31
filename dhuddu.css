@@ -1,0 +1,43 @@
+h1{
+    align-items: center;
+    border: 2px solid;
+    width: 100%;
+    min-height: 10vh;
+    border-top: 15px solid red;
+    border-bottom: 15px dashed green;
+    padding: 1px auto;
+    display: flex;
+    
+   
+}
+.First{
+    border: 2px dashed purple;
+    width: 100vw;
+
+}
+.Second {
+            border: 1px dashed orange;
+            width: 100%;
+
+      }
+.circle {
+        border: 5px solid orangered;
+        width: 150px;
+        height: 150px;
+        /* outline-offset: 100px; */
+        border-radius: 50%;
+        margin: auto;
+        padding: 150px;
+         }
+
+.circle span{
+    align-items: center;
+    /* font-size: 30px; */
+    margin-top: 200px;
+    margin-left: 200px;
+    padding: 150px;
+
+
+}
+   
+    
